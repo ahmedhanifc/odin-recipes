@@ -1,0 +1,8 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: rgba(220, 226, 234, 0.60);
+    color:rgba(117, 76, 200, 0.83);
+    font-family:'Times New Roman',sans-serif;
+}
